@@ -8,7 +8,6 @@
 -   📉📊Geeks of data like a (Sherlock Holmes)
 -  🌱 I’m currently learning Data Sciecne
 -  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abd-elrahman-faheem-2874121b3/) |  [Twitter](https://twitter.com/Amf_10_2) | [Telegtam](https://t.me/Amf_10_2)
--  ⚡ Fun fact: 
--  1- I love cooking 🍽👨‍🍳
+-  ⚡ Fun fact:   I love cooking 🍽👨‍🍳
 
 
