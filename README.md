@@ -1,34 +1,19 @@
-### Hellow I'm AbdElrahamn Mohamed Faheem  👋
-
- 
- 
- 
--  🔭 I’m currently Student  at Faculty of Computer & Information Sciences - Mansoura Univesity It Dept
--  Former android Developer 
--   📉📊Geeks of data like a (Sherlock Holmes)
--  🌱 I’m currently learning Data Sciecne
--  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abd-elrahman-faheem-2874121b3/) |  [Twitter](https://twitter.com/Amf_10_2) | [Telegtam](https://t.me/Amf_10_2)
--  ⚡ Fun fact:   I love cooking 🍽👨‍🍳
-
-  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
- 
-<div align="center">
- 
- 
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AMF10&hide_border=true&theme=shades-of-purple">
- 
- 
- <a href="https://github.com/AMF10">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AMF10&show_icons=true&theme=shades-of-purple&line_height=27" alt="AbdElrahman Faheem  github stats"/>
-</a>
-</div>
+# AbdElrahman Faheem
 
 
-   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
 
+
+## 🚀 About Me
+## 👨‍🎓 I am currently a student at the Faculty of Computer & Information Sciences at Mansoura University's IT Department. As a former Android Developer 📱, I am now a data enthusiast who loves to solve complex data problems like a modern-day Sherlock Holmes 🔎. I am continuously learning and growing in my career, and my adaptability and willingness to learn new things are some of my greatest strengths.
+
+## 🌱 Currently, I am sharpening my skills in Data Science 📈📊, and I am always eager to expand my skill set and delve deeper into the world of data analysis. With a year of experience in programming Android applications using Java ☕, I have a solid understanding of software development principles and a keen eye for detail.
+
+## 🚀 My passion for technology and drive for success has led me to excel in this field, and I bring a unique combination of technical skills and business acumen to the data field. I am interested in fields such as Data Analysis, Data Science, Machine Learning, Databases, Business Intelligence, Artificial Intelligence, and Deep Learning.
+
+## 🍽️ Fun fact: I love cooking! I am a quick learner, highly motivated, and eager to gain new skills and knowledge in the field of data science. You can reach me through LinkedIn, Twitter, or Telegram 📫, and I am excited about the opportunities that this field offers. My ultimate goal is to leverage my technical background and analytical skills to make data-driven decisions and drive business growth 🚀.
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/AMF10)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahmanfaheem/)
  
- <p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
