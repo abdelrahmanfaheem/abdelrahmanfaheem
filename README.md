@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-## 👨‍🎓 I am currently a student at the Faculty of Computer & Information Sciences at Mansoura University's IT Department. As a former Android Developer 📱, I am now a data enthusiast who loves to solve complex data problems like a modern-day Sherlock Holmes 🔎. I am continuously learning and growing in my career, and my adaptability and willingness to learn new things are some of my greatest strengths.
+## 👨‍🎓 I am Graduated from  the Faculty of Computer & Information Sciences at Mansoura University's IT Department in 2022 . As a former Android Developer 📱, I am now a data enthusiast who loves to solve complex data problems like a modern-day Sherlock Holmes 🔎. I am continuously learning and growing in my career, and my adaptability and willingness to learn new things are some of my greatest strengths.
 
 ## 🌱 Currently, I am sharpening my skills in Data Science 📈📊, and I am always eager to expand my skill set and delve deeper into the world of data analysis. With a year of experience in programming Android applications using Java ☕, I have a solid understanding of software development principles and a keen eye for detail.
 
