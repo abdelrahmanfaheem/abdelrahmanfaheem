@@ -1,7 +1,7 @@
 # Abd El-Rahman Mohamed Faheem 
-## Data Analyst | Business Intelligence Developer
+- Data Analyst | Business Intelligence Developer
 
-#### Seeking an opportunity to join a challenging environment where I can utilize my knowledge in Data Analysis and Business Intelligence, and improve my skills in the Data Science field. I aim to enhance my skills while contributing to the growth of the organization.
+- Seeking an opportunity to join a challenging environment where I can utilize my knowledge in Data Analysis and Business Intelligence, and improve my skills in the Data Science field. I aim to enhance my skills while contributing to the growth of the organization.
 
 # 🚀 About Me
 ##### 👨‍🎓 I graduated from the Faculty of Computer & Information Sciences at Mansoura University's IT Department in 2022. As a former Android Developer 📱, I am now a data enthusiast who loves to solve complex data problems like a modern-day Sherlock Holmes 🔎. I am continuously learning and growing in my career, and my adaptability and willingness to learn new things are some of my greatest strengths.
