@@ -12,6 +12,9 @@
 
 # Skill Based Projects
 
+## 🟢[ Kickstarter Analysis Project](https://github.com/abdelrahmanfaheem/KickStarter)
+
+
 ---
 
 # 🔧 Technical Skills
