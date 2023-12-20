@@ -3,6 +3,11 @@
 
 - Seeking an opportunity to join a challenging environment where I can utilize my knowledge in Data Analysis and Business Intelligence, and improve my skills in the Data Science field. I aim to enhance my skills while contributing to the growth of the organization.
 
+
+# Skill Based Projects
+- 🟣[Build and End to End ETL solution with an ETL using SSIS and Data Analysis with Power BI](https://github.com/abdelrahmanfaheem/Damietta-DWH-Analysis-using-Sql-And-Power-BI/tree/main)
+- 🟣[ Kickstarter Analysis Project](https://github.com/abdelrahmanfaheem/KickStarter)
+
 # 🚀 About Me
 ##### 👨‍🎓 I graduated from the Faculty of Computer & Information Sciences at Mansoura University's IT Department in 2022. As a former Android Developer 📱, I am now a data enthusiast who loves to solve complex data problems like a modern-day Sherlock Holmes 🔎. I am continuously learning and growing in my career, and my adaptability and willingness to learn new things are some of my greatest strengths.
 
@@ -10,9 +15,6 @@
 
 ##### 🚀 My passion for technology and drive for success have led me to excel in this field, and I bring a unique combination of technical skills and business acumen to the data field. I am interested in fields such as Data Analysis, Data Science, Machine Learning, Databases, Business Intelligence, Artificial Intelligence, and Deep Learning.
 
-# Skill Based Projects
-
-## 🟢[ Kickstarter Analysis Project](https://github.com/abdelrahmanfaheem/KickStarter)
 
 
 ---
