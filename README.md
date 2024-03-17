@@ -4,6 +4,7 @@
 - Seeking an opportunity to join a challenging environment where I can utilize my knowledge in Data Analysis and Business Intelligence, and improve my skills in the Data Science field. I aim to enhance my skills while contributing to the growth of the organization.
 
 # Skill Based Projects
+🟣 [Analysis-Covid-Data-Using-SQL](https://github.com/abdelrahmanfaheem/Analysis-Covid-Data-Using-SQL-)
 
 🟣 [Build and End to End ETL solution with an ETL using SSIS and Data Analysis with Power BI](https://github.com/abdelrahmanfaheem/Damietta-DWH-Analysis-using-Sql-And-Power-BI/tree/main)
 
