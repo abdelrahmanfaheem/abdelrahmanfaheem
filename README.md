@@ -1,28 +1,36 @@
 # Abd El-Rahman Mohamed Faheem 
-- Data Analyst | Business Intelligence Developer
-
-- Seeking an opportunity to join a challenging environment where I can utilize my knowledge in Data Analysis and Business Intelligence, and improve my skills in the Data Science field. I aim to enhance my skills while contributing to the growth of the organization.
-
-# Skill Based Projects
-🟣 [Analysis-Covid-Data-Using-SQL](https://github.com/abdelrahmanfaheem/Analysis-Covid-Data-Using-SQL-)
-
-🟣 [Build and End to End ETL solution with an ETL using SSIS and Data Analysis with Power BI](https://github.com/abdelrahmanfaheem/Damietta-DWH-Analysis-using-Sql-And-Power-BI/tree/main)
-
-🟣 [Sales Data Analysis](https://app.powerbi.com/view?r=eyJrIjoiZDhhYzg1YjItMmIxMS00NWVhLWE3YjItNTllNGI1ZDdhM2IwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
-
-🟣 [Product Analysis](https://app.powerbi.com/view?r=eyJrIjoiZDAwYjZjOWUtMmNlZS00OWJiLWI0MDItYjZiN2ExOGY4NDFlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
-
-🟣 [Kickstarter Analysis Project](https://github.com/abdelrahmanfaheem/KickStarter)
+- Data Analyst | Business Intelligence Developer | Azure Data Engineer Intern @DEPI
 
  
+## About Me
 
-# 🚀 About Me
-##### 👨‍🎓 I graduated from the Faculty of Computer & Information Sciences at Mansoura University's IT Department in 2022. As a former Android Developer 📱, I am now a data enthusiast who loves to solve complex data problems like a modern-day Sherlock Holmes 🔎. I am continuously learning and growing in my career, and my adaptability and willingness to learn new things are some of my greatest strengths.
+I'm a Data Analyst and Business Intelligence Developer with experience in inventory data analysis and management. I've contributed to projects like PriceID and Supplier Rank, where I conducted comprehensive analyses to establish price ranges and identify cost-effective supplier options.
 
-##### 🌱 Currently, I am sharpening my skills in Data Science 📈📊, and I am always eager to expand my skill set and delve deeper into the world of data analysis. With a year of experience in programming Android applications using Java ☕, I have a solid understanding of software development principles and a keen eye for detail.
+🚀 As a graduate from the Faculty of Computer & Information Sciences at Mansoura University's IT Department, I bring a blend of technical skills and business acumen to the field of data analysis. My passion lies in solving complex data problems and continuously learning and growing in my career.
 
-##### 🚀 My passion for technology and drive for success have led me to excel in this field, and I bring a unique combination of technical skills and business acumen to the data field. I am interested in fields such as Data Analysis, Data Science, Machine Learning, Databases, Business Intelligence, Artificial Intelligence, and Deep Learning.
+## Experience
 
+### Inventory Data Analysis at Z2Data
+
+- **PriceID Project:**
+  - Conducted comprehensive analysis to identify features influencing pricing for each Product Line.
+  - Established price ranges for groups and product lines, facilitating project objectives.
+
+- **Supplier Rank Project:**
+  - Identified supplier companies offering the lowest prices for each product line.
+  - Analyzed supplier data to determine cost-effective options for various product lines.
+
+### Skill-Based Projects
+
+- [Olympics Analysis](https://github.com/abdelrahmanfaheem/Olympics-Analysis-Using-SQL)
+- [Hotel Booking Analysis](https://github.com/abdelrahmanfaheem/Hotel-Booking-Analysis-Using-SQL)
+- [HR Data Analysis](https://github.com/abdelrahmanfaheem/HR-Data-Analaysis-Using-SQL)
+- [Covid Data Analysis](https://github.com/abdelrahmanfaheem/Analysis-Covid-Data-Using-SQL)
+- [End-to-End ETL Solution](https://github.com/abdelrahmanfaheem/Damietta-DWH-Analysis-using-Sql-And-Power-BI)
+- [Sales Data Analysis](https://app.powerbi.com/view?r=eyJrIjoiZDhhYzg1YjItMmIxMS00NWVhLWE3YjItNTllNGI1ZDdhM2IwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+- [Product Analysis](https://app.powerbi.com/view?r=eyJrIjoiZDAwYjZjOWUtMmNlZS00OWJiLWI0MDItYjZiN2ExOGY4NDFlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+- [Kickstarter Analysis](https://github.com/abdelrahmanfaheem/KickStarter)
+  
 
 
 ---
