@@ -1,5 +1,7 @@
 # Abd El-Rahman Mohamed Faheem 
 - Data Analyst | Business Intelligence Developer | Azure Data Engineer Intern @DEPI
+- [My CV](https://www.canva.com/design/DAFhkwb7RQ8/qizC8WamavgwaPWc9O52lg/view?utm_content=DAFhkwb7RQ8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 
  
 ## About Me
