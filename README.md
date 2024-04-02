@@ -27,7 +27,7 @@ I'm a Data Analyst and Business Intelligence Developer with experience in invent
 - [Olympics Analysis](https://github.com/abdelrahmanfaheem/Olympics-Analysis-Using-SQL)
 - [Hotel Booking Analysis](https://github.com/abdelrahmanfaheem/Hotel-Booking-Analysis-Using-SQL)
 - [HR Data Analysis](https://github.com/abdelrahmanfaheem/HR-Data-Analaysis-Using-SQL)
-- [Covid Data Analysis](https://github.com/abdelrahmanfaheem/Analysis-Covid-Data-Using-SQL)
+- [Covid Data Analysis](https://github.com/abdelrahmanfaheem/Analysis-Covid-Data-Using-SQL-)
 - [Build an End-to-End ETL Solution and Data Analysis Dashboard](https://github.com/abdelrahmanfaheem/Damietta-DWH-Analysis-using-Sql-And-Power-BI)
 - [Sales Data Analysis](https://app.powerbi.com/view?r=eyJrIjoiZDhhYzg1YjItMmIxMS00NWVhLWE3YjItNTllNGI1ZDdhM2IwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 - [Product Analysis](https://app.powerbi.com/view?r=eyJrIjoiZDAwYjZjOWUtMmNlZS00OWJiLWI0MDItYjZiN2ExOGY4NDFlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
