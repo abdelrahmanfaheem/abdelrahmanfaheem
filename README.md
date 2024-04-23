@@ -40,6 +40,11 @@ I'm a Data Analyst and Business Intelligence Developer with experience in invent
 ---
 
 # 🔧 Technical Skills
+- DBMS
+- SQL
+- DWH
+- SSIS
+- Data Modeling
 - Data Visualization
 - Storytelling With Data
 - Excel
@@ -48,12 +53,9 @@ I'm a Data Analyst and Business Intelligence Developer with experience in invent
 - MS Power BI
 - Dax
 - Power Query
-- Data Modeling
 - Python
 - Pandas
 - NumPy
-- DBMS
-- SQL
 - Statistics
 
 ---
