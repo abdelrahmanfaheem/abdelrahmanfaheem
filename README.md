@@ -21,14 +21,16 @@ I'm a Data Analyst and Business Intelligence Developer with experience in invent
 - **Supplier Rank Project:**
   - Identified supplier companies offering the lowest prices for each product line.
   - Analyzed supplier data to determine cost-effective options for various product lines.
+  ---
 
 ### Skill-Based Projects
 
-- [Olympics Analysis](https://github.com/abdelrahmanfaheem/Olympics-Analysis-Using-SQL)
+- [Data Warehouse - Slowly Changing Dimension Using SSIS ](https://github.com/abdelrahmanfaheem/DWH-Slowly-changing-dimension/tree/main)
+- [Build an End-to-End ETL Solution Using SSIS  and Data Analysis Dashboard Power BI ](https://github.com/abdelrahmanfaheem/Damietta-DWH-Analysis-using-Sql-And-Power-BI)
 - [Hotel Booking Analysis](https://github.com/abdelrahmanfaheem/Hotel-Booking-Analysis-Using-SQL)
 - [HR Data Analysis](https://github.com/abdelrahmanfaheem/HR-Data-Analaysis-Using-SQL)
 - [Covid Data Analysis](https://github.com/abdelrahmanfaheem/Analysis-Covid-Data-Using-SQL-)
-- [Build an End-to-End ETL Solution and Data Analysis Dashboard](https://github.com/abdelrahmanfaheem/Damietta-DWH-Analysis-using-Sql-And-Power-BI)
+- [Olympics Analysis](https://github.com/abdelrahmanfaheem/Olympics-Analysis-Using-SQL)
 - [Sales Data Analysis](https://app.powerbi.com/view?r=eyJrIjoiZDhhYzg1YjItMmIxMS00NWVhLWE3YjItNTllNGI1ZDdhM2IwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 - [Product Analysis](https://app.powerbi.com/view?r=eyJrIjoiZDAwYjZjOWUtMmNlZS00OWJiLWI0MDItYjZiN2ExOGY4NDFlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 - [Kickstarter Analysis](https://github.com/abdelrahmanfaheem/KickStarter)
