@@ -16,24 +16,29 @@ I'm a Data Analyst and Business Intelligence Developer with experience in invent
 
 - **PriceID Project:**
   - Conducted comprehensive analysis to identify features influencing pricing for each Product Line.
-  - Established price ranges for groups and product lines, facilitating project objectives.
+  - This analysis facilitated the establishment of price ranges for various groups and product lines within the project , and Identify the Cross Electronic parts
+  - Extract the Data Using  SQL to make a comprehensive analysis using Excel ,SQL ,Pivot Table , Dax and Make an ETL Using Power Query ,to identify features affecting influencing pricing for each Product Line , resulting in the establishment of price ranges for groups and product lines . 
+
+
 
 - **Supplier Rank Project:**
   - Identified supplier companies offering the lowest prices for each product line.
   - Analyzed supplier data to determine cost-effective options for various product lines.
+  - Extract and  Analysis Data Using SQL and Using  focused on identifying the list of supplier companies that consistently offer the lowest prices for each product line. -
+  - This involved analyzing supplier data and comparing prices across different vendors to determine the most cost-effective options for each product line
   ---
 
 ### Skill-Based Projects
 
 - [Data Warehouse - Slowly Changing Dimension Using SSIS ](https://github.com/abdelrahmanfaheem/DWH-Slowly-changing-dimension/tree/main)
 - [Build an End-to-End ETL Solution Using SSIS  and Data Analysis Dashboard Power BI ](https://github.com/abdelrahmanfaheem/Damietta-DWH-Analysis-using-Sql-And-Power-BI)
-- [Hotel Booking Analysis](https://github.com/abdelrahmanfaheem/Hotel-Booking-Analysis-Using-SQL)
-- [HR Data Analysis](https://github.com/abdelrahmanfaheem/HR-Data-Analaysis-Using-SQL)
-- [Covid Data Analysis](https://github.com/abdelrahmanfaheem/Analysis-Covid-Data-Using-SQL-)
-- [Olympics Analysis](https://github.com/abdelrahmanfaheem/Olympics-Analysis-Using-SQL)
-- [Sales Data Analysis](https://app.powerbi.com/view?r=eyJrIjoiZDhhYzg1YjItMmIxMS00NWVhLWE3YjItNTllNGI1ZDdhM2IwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
-- [Product Analysis](https://app.powerbi.com/view?r=eyJrIjoiZDAwYjZjOWUtMmNlZS00OWJiLWI0MDItYjZiN2ExOGY4NDFlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
-- [Kickstarter Analysis](https://github.com/abdelrahmanfaheem/KickStarter)
+- [Hotel Booking Analysis Using SQL ](https://github.com/abdelrahmanfaheem/Hotel-Booking-Analysis-Using-SQL)
+- [HR Data Analysis Using SQL](https://github.com/abdelrahmanfaheem/HR-Data-Analaysis-Using-SQL)
+- [Covid Data Analysis Using SQL](https://github.com/abdelrahmanfaheem/Analysis-Covid-Data-Using-SQL-)
+- [Olympics Analysis Using SQL](https://github.com/abdelrahmanfaheem/Olympics-Analysis-Using-SQL)
+- [Sales Data Analysis Using  Power BI ](https://app.powerbi.com/view?r=eyJrIjoiZDhhYzg1YjItMmIxMS00NWVhLWE3YjItNTllNGI1ZDdhM2IwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+- [Product Analysis Using  Power BI](https://app.powerbi.com/view?r=eyJrIjoiZDAwYjZjOWUtMmNlZS00OWJiLWI0MDItYjZiN2ExOGY4NDFlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+- [Kickstarter Analysis Using  Power BI](https://github.com/abdelrahmanfaheem/KickStarter)
   
 
 
