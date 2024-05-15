@@ -10,9 +10,9 @@ I'm a Data Analyst and Business Intelligence Developer with experience in invent
 
 🚀 As a graduate from the Faculty of Computer & Information Sciences at Mansoura University's IT Department, I bring a blend of technical skills and business acumen to the field of data analysis. My passion lies in solving complex data problems and continuously learning and growing in my career.
 
-## Experience
+# Experience
 
-### Inventory Data Analysis at Z2Data
+### Inventory Data Analysis at Z2Data | January 2024 :Present
 
 - **PriceID Project:**
   - Conducted comprehensive analysis to identify features influencing pricing for each Product Line.
@@ -24,8 +24,19 @@ I'm a Data Analyst and Business Intelligence Developer with experience in invent
 - **Supplier Rank Project:**
   - Identified supplier companies offering the lowest prices for each product line.
   - Analyzed supplier data to determine cost-effective options for various product lines.
-  - Extract and  Analysis Data Using SQL and Using  focused on identifying the list of supplier companies that consistently offer the lowest prices for each product line. -
+  - Extract and  Analysis Data Using SQL and Using  focused on identifying the list of supplier companies that consistently offer the lowest prices for each product line. 
   - This involved analyzing supplier data and comparing prices across different vendors to determine the most cost-effective options for each product line
+ ---
+ 
+### Internship at Elbaat Digital Marketing Agency | Ecommerce Sales Analyst and Performance Analyst  | June 2023 : August 2023 
+   - Conducted sales data analysis for Elbatt Company's E-commerce customers in Saudi Arabia.
+   - Utilized tools such as DAX, Power Query, Pivot tables, Excel, and Power BI to analyze and visualize data effectively.
+   - Performed performance analysis for employees within the company.
+   - Automated and streamlined manual processes across four departments by implementing efficient operations using Google Sheets.
+   - Presented data-driven insights through compelling visualizations and storytelling techniques to empower stakeholders in making informed decisions and driving business growth using Power Point.
+
+
+
   ---
 
 ### Skill-Based Projects
