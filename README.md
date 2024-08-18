@@ -6,54 +6,76 @@
  
 ## About Me
 
-I'm a Data Analyst and Business Intelligence Developer with experience in inventory data analysis and management. I've contributed to projects like PriceID and Supplier Rank, where I conducted comprehensive analyses to establish price ranges and identify cost-effective supplier options.
+A motivated and innovative BI Developer and Data Engineer with experience in designing and building data movement solutions from operational and external environments to business intelligence environments. Proficient in SQL, Python, and data visualization tools such as Power BI, with a solid foundation in developing extract, transform, and load (ETL) processes. Seeking a challenging role to leverage my advanced coding skills, strong analytical and problem-solving abilities .
 
 🚀 As a graduate from the Faculty of Computer & Information Sciences at Mansoura University's IT Department, I bring a blend of technical skills and business acumen to the field of data analysis. My passion lies in solving complex data problems and continuously learning and growing in my career.
-
-# Experience
-
-### Inventory Data Analysis at Z2Data | January 2024 :Present
-
-- **PriceID Project:**
-  - Conducted comprehensive analysis to identify features influencing pricing for each Product Line.
-  - This analysis facilitated the establishment of price ranges for various groups and product lines within the project , and Identify the Cross Electronic parts
-  - Extract the Data Using  SQL to make a comprehensive analysis using Excel ,SQL ,Pivot Table , Dax and Make an ETL Using Power Query ,to identify features affecting influencing pricing for each Product Line , resulting in the establishment of price ranges for groups and product lines . 
-
-
-
-- **Supplier Rank Project:**
-  - Identified supplier companies offering the lowest prices for each product line.
-  - Analyzed supplier data to determine cost-effective options for various product lines.
-  - Extract and  Analysis Data Using SQL and Using  focused on identifying the list of supplier companies that consistently offer the lowest prices for each product line. 
-  - This involved analyzing supplier data and comparing prices across different vendors to determine the most cost-effective options for each product line
- ---
- 
-### Internship at Elbaat Digital Marketing Agency | Ecommerce Sales Analyst and Performance Analyst  | June 2023 : August 2023 
-   - Conducted sales data analysis for Elbatt Company's E-commerce customers in Saudi Arabia.
-   - Utilized tools such as DAX, Power Query, Pivot tables, Excel, and Power BI to analyze and visualize data effectively.
-   - Performed performance analysis for employees within the company.
-   - Automated and streamlined manual processes across four departments by implementing efficient operations using Google Sheets.
-   - Presented data-driven insights through compelling visualizations and storytelling techniques to empower stakeholders in making informed decisions and driving business growth using Power Point.
-
 
 
   ---
 
 ### Skill-Based Projects
 
-- [Data Warehouse - Slowly Changing Dimension Using SSIS ](https://github.com/abdelrahmanfaheem/DWH-Slowly-changing-dimension/tree/main)
-- [Build an End-to-End ETL Solution Using SSIS  and Data Analysis Dashboard Power BI ](https://github.com/abdelrahmanfaheem/Damietta-DWH-Analysis-using-Sql-And-Power-BI)
-- [Hotel Booking Analysis Using SQL ](https://github.com/abdelrahmanfaheem/Hotel-Booking-Analysis-Using-SQL)
+#### SQL Projects
+- [Advanced Data Analysis on Retail Performance Metrics](https://github.com/abdelrahmanfaheem/Growth-Sales-Analysis-Using-SQL)
+- [Hotel Booking Analysis Using SQL](https://github.com/abdelrahmanfaheem/Hotel-Booking-Analysis-Using-SQL)
 - [HR Data Analysis Using SQL](https://github.com/abdelrahmanfaheem/HR-Data-Analaysis-Using-SQL)
 - [Covid Data Analysis Using SQL](https://github.com/abdelrahmanfaheem/Analysis-Covid-Data-Using-SQL-)
 - [Olympics Analysis Using SQL](https://github.com/abdelrahmanfaheem/Olympics-Analysis-Using-SQL)
-- [Sales Data Analysis Using  Power BI ](https://app.powerbi.com/view?r=eyJrIjoiZDhhYzg1YjItMmIxMS00NWVhLWE3YjItNTllNGI1ZDdhM2IwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
-- [Product Analysis Using  Power BI](https://app.powerbi.com/view?r=eyJrIjoiZDAwYjZjOWUtMmNlZS00OWJiLWI0MDItYjZiN2ExOGY4NDFlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
-- [Kickstarter Analysis Using  Power BI](https://github.com/abdelrahmanfaheem/KickStarter)
+
+#### SSIS & Data Warehousing Projects
+- [Data Storage ETL Process for Telecom Company](https://github.com/abdelrahmanfaheem/Telecom-DWH-Using-SSIS)
+- [Build an End-to-End ETL Solution Using SSIS and Data Analysis Dashboard Power BI](https://github.com/abdelrahmanfaheem/Damietta-DWH-Analysis-using-Sql-And-Power-BI)
+- [Data Warehouse - Slowly Changing Dimension Using SSIS](https://github.com/abdelrahmanfaheem/DWH-Slowly-changing-dimension/tree/main)
+
+#### Python Projects
+- [Sales Data Analysis Using Python](https://github.com/abdelrahmanfaheem/Sales-Data-Analysis-Using-python)
+
+#### Power BI Projects
+- [Sales Data Analysis Using Power BI](https://app.powerbi.com/view?r=eyJrIjoiZDhhYzg1YjItMmIxMS00NWVhLWE3YjItNTllNGI1ZDdhM2IwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+- [Product Analysis Using Power BI](https://app.powerbi.com/view?r=eyJrIjoiZDAwYjZjOWUtMmNlZS00OWJiLWI0MDItYjZiN2ExOGY4NDFlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+- [Kickstarter Analysis Using Power BI](https://github.com/abdelrahmanfaheem/KickStarter)
+
   
 
 
 ---
+
+
+ ## Experience
+
+### Inventory Data Management at Z2Data | January 2024 - Present
+
+
+- **Data Engineer**
+   - **Market Analysis & Data Standardization:**
+    - Collaborated with cross-functional teams to extract, analyze, and standardize market data from the database using SQL.
+    - Leveraged SSIS for efficient ETL processes, ensuring data integrity and consistency.
+
+- **Data Quality:**
+  - Applied statistical methods and SQL tools to analyze and improve data quality, contributing to accurate and reliable datasets.
+
+- **Data Analysis:**
+  - **PriceID Project:**
+    - Conducted comprehensive analysis to identify key features influencing pricing for each product line.
+    - Established price ranges for various product groups, optimizing pricing strategies and identifying cross-electronic parts.
+    - Led the extraction and transformation of data using SQL, Excel, Pivot Tables, DAX, and Power Query, resulting in actionable insights for the project.
+
+  - **Supplier Rank Project:**
+    - Identified and ranked supplier companies based on cost-effectiveness for each product line.
+    - Analyzed and compared supplier data using SQL to determine the most economical options, enhancing procurement strategies.
+
+---
+
+### Internship at Elbaat Digital Marketing Agency | E-commerce Growth Sales Analyst | June 2023 - August 2023
+
+- Conducted sales data analysis for Elbaat's E-commerce clients in Saudi Arabia, collaborating with various departments.
+- Utilized DAX, Power Query, Pivot Tables, Excel, and Power BI to analyze, visualize, and present data effectively.
+- Automated manual processes across four departments using Google Sheets, improving operational efficiency.
+- Delivered data-driven insights through compelling visualizations and storytelling, empowering stakeholders to make informed decisions and drive business growth.
+
+
+
+
 
 # 🔧 Technical Skills
 - DBMS
