@@ -23,7 +23,7 @@ A motivated and innovative BI Developer and Data Engineer with experience in des
 - [Olympics Analysis Using SQL](https://github.com/abdelrahmanfaheem/Olympics-Analysis-Using-SQL)
 
 #### SSIS & Data Warehousing Projects
-- [Data Storage ETL Process for Telecom Company](https://github.com/abdelrahmanfaheem/Telecom-DWH-Using-SSIS)
+- [DWH Creation and ETL Process for Telecom Company](https://github.com/abdelrahmanfaheem/Telecom-DWH-Using-SSIS)
 - [Build an End-to-End ETL Solution Using SSIS and Data Analysis Dashboard Power BI](https://github.com/abdelrahmanfaheem/Damietta-DWH-Analysis-using-Sql-And-Power-BI)
 - [Data Warehouse - Slowly Changing Dimension Using SSIS](https://github.com/abdelrahmanfaheem/DWH-Slowly-changing-dimension/tree/main)
 
