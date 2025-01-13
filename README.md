@@ -1,5 +1,5 @@
 # Abd El-Rahman Mohamed Faheem 
-- Data Analyst | Business Intelligence Developer | Azure Data Engineer Intern @DEPI
+- Data Analyst | Business Intelligence Developer | Azure Data Engineer Intern @DEPI | Web Full Stack Trainee@ Digital Egypt Builders Initiative- DEBI
 - [My CV](https://flowcv.com/resume/7a7wllts1b)
 
 
