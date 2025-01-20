@@ -5,6 +5,39 @@
 **GitHub:** [github.com/abdelrahmanfaheem](https://github.com/abdelrahmanfaheem) | **LinkedIn:** [linkedin.com/in/abdelrahmanfaheem](https://linkedin.com/in/abdelrahmanfaheem)
 
 ---
+# Portfolio Highlights 🚀
+
+## Projects
+
+### [Growth Sales Data Analysis](https://github.com/abdelrahmanfaheem/Growth-Sales-Analysis-Using-SQL)  
+**Description**: Leveraging SQL and Python to extract actionable insights from retail data and drive business performance.
+ 
+
+### [Build a Data Warehouse for a Telecom Company](https://github.com/abdelrahmanfaheem/Telecom-DWH-Using-SSIS)  
+**Description**: Designed and built a comprehensive DWH for a telecom company using SSIS and SQL Server.
+
+ 
+
+### [Build an Exam Scores Data Warehouse](https://github.com/abdelrahmanfaheem/Damietta-DWH-Analysis-using-Sql-And-Power-BI/tree/main)  
+**Description**:  
+- ETL solution implemented using SSIS.  
+- Data analysis and visualization with an interactive Power BI dashboard.
+ 
+
+### [Advanced Retail Data Analysis Using SQL](https://github.com/abdelrahmanfaheem/Damietta-DWH-Analysis-using-Sql-And-Power-BI/tree/main)  
+**Description**: Analyzed sales and margin trends for a retail chain, providing actionable insights through Power BI dashboards.
+
+ 
+
+## GitHub Portfolio Highlights 🌟
+
+- **[Hotel Booking Data Analysis Using SQL](https://github.com/abdelrahmanfaheem/Hotel-Booking-Analysis-Using-SQL)**  
+- **[Olympics Data Analysis Using SQL](https://github.com/abdelrahmanfaheem/Olympics-Analysis-Using-SQL)**  
+- **[Sales Data Analysis Using Python](https://github.com/abdelrahmanfaheem/Sales-Data-Analysis-Using-python)**  
+- **[Sales Analysis Using Power BI](https://github.com/abdelrahmanfaheem/Sales-Data-Anlaysis/tree/main)**  
+- **[Kickstarter Analysis Using Power BI](https://github.com/abdelrahmanfaheem/Kickstarter-Data-Analysis)**  
+
+---
 
 ## **Profile**  
 A dynamic BI Developer and Data Engineer with a proven track record of optimizing business intelligence processes and driving data-driven strategies. Known for delivering impactful insights through scalable solutions and advanced data visualization techniques. Passionate about leveraging analytics to empower decision-making and improve operational efficiency.
@@ -73,15 +106,4 @@ A dynamic BI Developer and Data Engineer with a proven track record of optimizin
 
 ---
 
-## **Projects**
-
-- **Growth Sales Data Analysis:** Leveraged SQL and Python to extract actionable insights from retail data and drive business performance.  
-- **Telecom Data Warehouse:** Designed and built a comprehensive DWH for a telecom company using SSIS and SQL Server.  
-- **Exam Scores Data Warehouse:** Built an ETL solution using SSIS and created a data analysis dashboard with Power BI.  
-
-**GitHub Portfolio Highlights:**  
-- [Hotel Booking Data Analysis Using SQL](https://github.com/abdelrahmanfaheem/Hotel-Booking-Analysis-Using-SQL)  
-- [Olympics Data Analysis Using SQL](https://github.com/abdelrahmanfaheem/Olympics-Analysis-Using-SQL)  
-- [Sales Data Analysis Using Python](https://github.com/abdelrahmanfaheem/Sales-Data-Analysis-Using-python)  
-- [Sales Analysis Using Power BI](https://app.powerbi.com/view?r=eyJrIjoiZDhhYzg1YjItMmIxMS00NWVhLWE3YjItNTllNGI1ZDdhM2IwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)  
-- [Kickstarter Analysis Using Power BI](https://github.com/abdelrahmanfaheem/KickStarter)  
+  
