@@ -1,101 +1,161 @@
 <!-- README.md -->
 
-# 👋 Hi, I'm AbdElRahman Mohamed Faheem — BI & Data Engineer 🔨🤖🔧
+ # 🚀 AbdElRahman Mohamed Faheem  
+## BI Developer | Data Engineer | Python & SQL Specialist | Power BI | Java Spring
 
 **Location:** Cairo, Egypt  
-**Email:** abdofaheem5@gmail.com | **Phone:** +20 1220470363  
-**GitHub:** [abdelrahmanfaheem](https://github.com/abdelrahmanfaheem) | **LinkedIn:** [linkedin.com/in/abdelrahmanfaheem](https://linkedin.com/in/abdelrahmanfaheem)
+## 🌐 Connect  
+📧 **Email:** [abdofaheem5@gmail.com](mailto:abdofaheem5@gmail.com)  
+💻 **GitHub:** [abdelrahmanfaheem](https://github.com/abdelrahmanfaheem)  
+🔗 **LinkedIn:** [linkedin.com/in/abdelrahmanfaheem](https://linkedin.com/in/abdelrahmanfaheem)
 
 ---
 
-## 🧠 About Me  
-Data Engineer & BI Analyst with experience in **data warehousing, ETL/ELT**, **Power BI**, and **API integrations**.  
-Proficient in **SQL, Python**, and **Java Spring**, building scalable, automated, and analytics-driven data systems.  
-Passionate about transforming raw data into business insights and enabling analytics at scale.  
+ 
+
+## 👋 About Me  
+
+I am a Hybrid **Business Intelligence Developer and Data Engineer** passionate about building scalable, automated, and insight-driven analytics solutions.
+
+With hands-on experience across data engineering, warehousing, backend APIs, and executive dashboard development, I specialize in transforming raw data into decision-ready intelligence.
+
+I work at the intersection of:
+
+- 📊 Business Intelligence  
+- ⚙️ Data Engineering  
+- 🔄 Automation & Reporting Pipelines  
+- 🏢 Enterprise ERP & SAP Data Integration  
+- 📈 Supply Chain & Procurement Analytics  
+
+My mission is simple:  
+**Build data systems that reduce manual work, increase visibility, and accelerate strategic decision-making.**
 
 ---
 
-## 💼 Professional Experience
+## 🛠 Technical Stack  
 
-### 🏢 Supply Chain Data Analyst — *Wadi Degla Holding*  
-*Aug 2025 – Present | Cairo, Egypt*  
-- Automated operational workflows using **Python**, reducing manual work and human error.  
-- Built **Power BI** dashboards for inventory, consumption, and operational KPIs.  
-- Integrated **SAP data** into internal systems for centralized analytics.  
+### 💾 Data Engineering & Databases
+- SQL Server  
+- MySQL  
+- T-SQL  
+- Data Warehousing (DWH)  
+- ETL / ELT Pipelines  
+- SSIS, SSAS, SSRS  
+- MongoDB (NoSQL)  
+- SQLite  
 
----
+### 🐍 Programming
+- Python (Pandas, SciPy, Plotly, SQLAlchemy)  
+- Java (Spring Boot, Spring MVC, REST APIs)  
 
-### 🏢 Business Intelligence Analyst — *Bingo Global Group*  
-*Dec 2024 – Jul 2025 | Cairo, Egypt*  
+### 📊 BI & Visualization
+- Power BI  
+- Advanced DAX  
+- Power Query  
+- Excel Analytics  
+- Data Storytelling & Dashboard Design  
 
-**Key Achievements & Projects 🔥**
+### 🔗 Backend & APIs
+- Spring Boot  
+- RESTful APIs  
+- JSON / XML  
+- Swagger / OpenAPI  
+- Postman  
 
-#### 🚀 **1. Real-Time Data Access APIs**
-- Developed **Java-based APIs** on the **Data Warehouse (DWH)** to enable **real-time data access**, eliminating manual updates.  
-- Delivered **live Power BI dashboards** and **automated Excel reports**, improving decision-making visibility across departments.  
-**Tech:** Java Spring Boot, REST APIs, Power BI, SQL, DWH  
-
-#### ⚙️ **2. Automated Sales Reporting**
-- Automated daily sales reports using **Python**, increasing speed and accuracy while eliminating manual Excel work.  
-- Integrated Python scripts into scheduled workflows for operational teams.  
-**Tech:** Python, SQL, Excel  
-
-#### 💻 **3. Competitive Price Scraper**
-- Created **Python web scraping tools** to collect live product pricing from **Amazon** for competitive market analysis.  
-- Helped marketing and pricing teams optimize pricing strategies based on real-time data.  
-**Tech:** Python, BeautifulSoup, Pandas  
-
-#### 🧾 **4. Version Control for Dashboards**
-- Implemented **Git & GitHub version control** for Power BI dashboards, enabling better collaboration and change management across teams.  
-**Tech:** Git, GitHub, Power BI  
-
-#### 🛒 **5. Customer Service Portal**
-- Built a **Customer Service Portal** using **Java Spring APIs**, giving staff **real-time inventory visibility** to assist customers efficiently.  
-**Tech:** Java Spring Boot, REST APIs, SQL, DWH  
-
-#### 📊 **6. Branch Performance & Inventory Analytics**
-- Analyzed **inventory aging and sales performance** at branch level using Power BI and DWH analytics.  
-- Identified **growth opportunities and performance gaps**, enabling targeted decisions.  
-**Tech:** Power BI, SQL, DAX  
-
-#### 🔄 **7. Product Transfer Optimization**
-- Integrated data from multiple systems (ERP and DWH) to automate **product transfer reporting**.  
-- Reduced process time across **26 retail, warehouse, and e-commerce channels**.  
-**Tech:** Python, Excel, SQL  
+### ☁️ Tools & Version Control
+- Git & GitHub  
+- SAP Integration  
+- Azure Data Fundamentals  
+- MLOps Basics (MLflow, Hugging Face)  
 
 ---
 
-### 🧩 Inventory Data Analyst — *Z2Data*  
-*Sep 2023 – Dec 2024 | Cairo, Egypt*  
-- Integrated web APIs and built Python scrapers to fetch real-time data on pricing and lead time.  
-- Analyzed supplier performance and inventory aging using SQL & Power BI.  
+## 🚀 Featured Projects  
+
+### 🔥 End-To-End Analytical Solution  
+📎 Repository: https://github.com/abdelrahmanfaheem/End-To-End-Analytical-Solution  
+
+A complete end-to-end analytics architecture covering:
+
+- Data extraction and ingestion  
+- Data transformation and modeling  
+- Data warehousing design  
+- Automated ETL pipelines  
+- Analytical layer implementation  
+- Interactive dashboards and reporting  
+
+This project demonstrates my ability to design and implement a full analytics lifecycle — from raw data to business-ready insights — following scalable data engineering best practices.
+
+## 💼 Professional Experience  
+
+### 📦 Supply Chain Data Analyst  
+**Wadi Degla Holding | Cairo**
+
+- Delivered centralized BI, analytics, and data engineering solutions across multiple companies  
+- Built automated Python & SQL pipelines integrated with SAP  
+- Designed executive Power BI dashboards using advanced DAX  
+- Supported annual procurement planning and budgeting with price forecasting models  
+- Performed inventory aging and stock control analysis using Python  
+- Presented executive insights and led technical enablement sessions  
 
 ---
 
-### 📈 Sales Data Analyst Intern — *Elbaat Digital Agency*  
-*Jun 2023 – Aug 2023 | Mansoura, Egypt*  
-- Built interactive Power BI dashboards for client sales and marketing insights.  
+### 📊 Business Intelligence Analyst  
+**Bingo Global Group | Cairo**
+
+- Developed Java-based APIs for real-time data warehouse access  
+- Enhanced ETL workflows using SSIS  
+- Migrated SQL data cubes into scalable Python pipelines  
+- Automated daily operational reporting  
+- Implemented Git-based version control for BI projects  
+- Built competitive price scraping pipelines (Amazon)  
+- Designed KPI dashboards with data storytelling  
 
 ---
 
-## 🧰 Technical Skills  
-**Languages / Tools:** Python, Java, SQL, Power BI, DAX, Excel, Git, GitHub  
-**Data Engineering:** SQL Server, MySQL, SSIS, SSAS, SSRS, DWH, ETL  
-**Backend Development:** Java Spring Boot, REST APIs, Swagger, Postman  
-**Visualization:** Power BI, Excel Power Query, DAX  
-**Cloud / MLOps:** Azure, MLflow, Hugging Face  
-**Workflow:** Agile, Scrum  
+### 📦 Inventory Data Analyst  
+**Z2Data | Cairo**
+
+- Integrated external APIs and built web scraping pipelines  
+- Conducted inventory aging, pricing, and supplier performance analysis  
+- Developed pricing recommendation logic during shortages  
+
+---
+
+## 🚀 Featured Project Areas  
+
+### 🔹 Enterprise BI & Analytics  
+- Procurement & Budget Analytics  
+- SAP Data Integration  
+- Executive Dashboards & Infographics  
+- Automated Reporting Pipelines  
+
+### 🔹 Data Engineering  
+- ETL/ELT Pipeline Development  
+- Data Warehousing Architecture  
+- Python Automation Frameworks  
+- Real-Time API Data Access  
+
+### 🔹 Supply Chain Analytics  
+- Demand Forecasting  
+- Price Forecasting  
+- Inventory Aging Analysis  
+- Multi-Branch Performance Optimization  
 
 ---
 
 ## 🎓 Education  
-**B.Sc. in Computer & Information Systems** — *Mansoura University (2018–2022)*  
-- Grade: Very Good (80.8%) | 6th Overall  
-- Graduation Project: *Diabetes Management System with Machine Learning* — Excellent (94.5%)
 
-**Java Spring Backend & ReactJS** — *Digital Egypt Builders Initiative (DEBI)* | *Nov 2024 – Present*
+**BSc in Computers & Information**  
+Mansoura University  
+- Grade: Very Good (80.8%)  
+- Rank: 6th Overall  
+- Graduation Project: Diabetes Management System (Machine Learning) – Excellent (94.5%)  
 
 ---
+
+## 📜 Certifications  
+
 
 ## 🏅 Certifications  
 - [Object-Oriented Programming in Java – Coursera](https://www.coursera.org/account/accomplishments/verify/9Q7PS61Y6JPJ)  
@@ -109,11 +169,5 @@ Passionate about transforming raw data into business insights and enabling analy
 
 ---
 
-## 🌐 Connect  
-📧 **Email:** [abdofaheem5@gmail.com](mailto:abdofaheem5@gmail.com)  
-💻 **GitHub:** [abdelrahmanfaheem](https://github.com/abdelrahmanfaheem)  
-🔗 **LinkedIn:** [linkedin.com/in/abdelrahmanfaheem](https://linkedin.com/in/abdelrahmanfaheem)
-
 ---
 
-> 💡 *Tip:* To make your GitHub stand out, create a `/projects` folder and add a short `README.md` inside each Bingo project folder (with screenshots, code snippets, or dashboards). I can generate those templates next if you want.
