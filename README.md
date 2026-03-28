@@ -1,6 +1,6 @@
 # 👋 Hi, I'm AbdelRahman Faheem
 
-**Hybrid BI Developer & Data Engineer | Python, SQL, Power BI, Data Warehousing, ETL/ELT, SAP ERP**
+** BI Developer & Data Engineer  **
 
 ---
 
